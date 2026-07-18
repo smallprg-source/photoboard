@@ -1,7 +1,7 @@
 {
   "version": "v1.3.1",
   "download_url": "https://github.com/smallprg-source/photoboard/releases/download/v1.3.1/PhotoBoard.exe",
-  "sha256":"63760a5bab5474a5413616fb04a4a20817016bbf9dcbbe028feeea5d9b612a97",
+  "sha256":"7f6b4b679f4407f1413755da24c5d391af253f158dd88f523d51c8c606fb079f",
   "required": false,
   "notes": "디지털 자산관리 프로그램"
 }
