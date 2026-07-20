@@ -1,7 +1,7 @@
 {
-  "version": "v1.3.1",
-  "download_url": "https://github.com/smallprg-source/photoboard/releases/download/v1.3.1/PhotoBoard.exe",
-  "sha256":"7f6b4b679f4407f1413755da24c5d391af253f158dd88f523d51c8c606fb079f",
+  "version": "v1.3.2",
+  "download_url": "https://github.com/smallprg-source/photoboard/releases/download/v1.3.2/PhotoBoard.exe",
+  "sha256":"840671c02885a09d20305cb87a5823ac3061417ff034e100861ea0394ae5df42",
   "required": false,
-  "notes": "디지털 자산관리 프로그램"
+  "notes": "광고 서버 연결 실패 안내창을 개선"
 }
